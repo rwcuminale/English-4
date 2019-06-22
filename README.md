@@ -3,13 +3,17 @@
 #### Engineering & Science University Magnet School
 
 New Haven Public Schools
+
 500 Boston Post Road
+
 West Haven, CT 06516
 
 #### Richard Cuminale
 
 Email: richard.cuminale@nhboe.net
+
 Github: https://github.com/rwcuminale/English-4 
+
 Twitter: @RichardCuminale
 
 ## Overview
