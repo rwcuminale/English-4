@@ -110,14 +110,6 @@ Do your best every class.
 Often at the end of class you will receive a short writing prompt to reinforce or extend the lines of inquiry of the day's lesson. 
 Honest, informal, short but intelligent writing is valued here. 
 
-#### SAT Practice
-
-Beginning in October, you will have bi-weekly exercises to prepare for the SAT exam. 
-These activities will form a discrete part of your participation grade --- 
-	in the beginning of the year the exercises will be graded for quality of completion as you grow used to the questions and expectations,
-but as we approach the SAT exam the exercises will be graded for correctness as well. 
-After assessing your work, I will provide you with feedback and the opportunity to ask questions and discuss strategies.
-
 ### Midterms and Finals
 
 In lieu of Midterm and Final Exams, you will perform a reflective exercise 
