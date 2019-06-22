@@ -41,17 +41,15 @@ The following materials are required every class:
 
 NOTE: I will NOT accept formal compositions or papers electronically, and I do not have a printer for student use (it barely works for me). I will also gladly help you establish a system for tracking your assignments (I'm naturally pretty disorganized, so I've worked hard to figure out task-management systems that work), but I will not track your assignments for you.
 
-## Curriculum
+## Curriculum 
 
-The year will examine the following discrete units:
-1. Exploratory and Clarifying Writing
-2. Writing Freedom
-3. The Individual in Society
-3. Power, Protest and Change
-4. Grit and Grandeur
-4. Facing our Fears
-5. Ordinary Lives, Extraordinary Tales
-5. Approaching the College Essay
+*DRAFT*
+
+The year will explore the following discrete units:
+1. College Essay
+1. Resume Review
+2. Cover Letter Writing and Interview Discourse
+2. Final Project
 
 ## Grading and Assessment
 
