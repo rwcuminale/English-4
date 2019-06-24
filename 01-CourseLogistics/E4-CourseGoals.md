@@ -1,16 +1,21 @@
 # Course Goals
+
 ## English 4
 
-Most importantly, above all else, my aim is for students to leave this course with three things:
+Most importantly, above all else, my aim is for students to leave this course with five things:
 
-* How to be a successful English student after high school;
-* A habit of reading critically and making connections so you are not easily fooled;
-* An appreciation for the importance of a lifetime study of literature.
+* An understanding of the enduring value of literature, and a desire to pursue it later in life;
+* Confidence in using writing and speaking to present yourself to a high-stakes audience;
+* Enriching reading and writing experiences during your final year of high school;
+* The habit of reading and listening critically so you are not easily fooled;
+* An awareness of and participation in your local, national, and global communities through meaningful reading and writing.
 
 A more detailed list of academic goals for English 4 follows.
 
 ---
+
 ### Literature
+
 * Read a literary text (poem, narrative, or drama) closely and be able to write thoughtfully about its meaning and technique
 * Understand what a poem is and what they aim to do
 * Know the five elements of a narrative and how to use them to analyze one
@@ -24,15 +29,18 @@ A more detailed list of academic goals for English 4 follows.
 * Read and appreciate a diversity of important literary works in American history
 * Understand the aim of literature and track the development of ideas through a text
 * Know the foundational works of literature in American history
+
 ### Rhetoric
+
 * Read and carefully deconstruct the technique of rhetorical texts
 * Identify and describe usage of ethos, pathos, and logos approaches
 * Create rhetorical works using these deliberate techniques and approaches
 * Read and appreciate important works of rhetoric in American history
 * Discern point of view behind informational texts
 * Discover reliable news sources and understand their biases
-* Know the foundational rhetorical texts in American hostory
+
 ### Writing
+
 * Know how to approach and have experience in writing a variety of forms:
   * Expository
   * Narrative
@@ -44,7 +52,9 @@ A more detailed list of academic goals for English 4 follows.
 * Read and respond to critical writing about literary and rhetorical texts
 * Know how to do informal, non-academic research without a library or librarian
 * Grow in vocabulary recognition and usage
+
 ### Dispositions
+
 * Take academic ownership of skill, knowledge, habits and behavior
 * Master a personal writing process that creates quality work
 * Know how to prepare for and participate in Socratic seminars and other forms of in-class discourse

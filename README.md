@@ -2,14 +2,14 @@
 
 #### Engineering & Science University Magnet School
 
-New Haven Public Schools\
-500 Boston Post Road\
+New Haven Public Schools  
+500 Boston Post Road  
 West Haven, CT 06516
 
 #### Richard Cuminale
 
-Email: richard.cuminale@nhboe.net\
-Github: https://github.com/rwcuminale/English-4 \
+Email: richard.cuminale@nhboe.net  
+Github: https://github.com/rwcuminale/English-4  
 Twitter: @RichardCuminale
 
 ## Overview
@@ -29,26 +29,30 @@ to address complex and sophisticated texts and ideas.
 
 The following materials are required every class:
 
-* A dedicated binder
-  * I recommend using a small, 1.5 to 2" binder, and archiving materials every marking period. This allows you to keep from carrying so much bulk around (keep your archived work in a safe place though -- you'll need all your papers for your final at the end of the year)
-  * Use a large binder if you want to keep all your papers from the year inside (3-4")
-* Binder dividers
-* A reliable writing instrument
-* Loose-leaf paper
-* A book (hard-copy, bound) for in-class pleasure reading
-* A means for typing and printing composition assignments and papers outside of class
-* A system for tracking your homework and long-term assignments. 
+1. A dedicated English binder (I recommend using a small, 1.5 to 2" binder, and archiving materials at home every marking period. This allows you to keep from carrying so much bulk around (keep your archived work in a safe place though -- you'll need all your papers for your final at the end of the year.)
+1. Binder dividers
+1. A reliable writing instrument and a backup
+1. Loose-leaf paper
+1. A book (hard-copy, bound) for in-class pleasure reading
+1. A means for typing and printing composition assignments and papers outside of class
+1. A system for tracking your homework and long-term assignments.
 
-NOTE: I will NOT accept formal compositions or papers electronically, and I do not have a printer for student use (it barely works for me). I will also gladly help you establish a system for tracking your assignments (I'm naturally pretty disorganized, so I've worked hard to figure out task-management systems that work), but I will not track your assignments for you.
+*NOTE: I will NOT accept formal compositions or papers electronically, and I do not have a printer for student use (my in-class printer barely works, even for me). I will also gladly help you establish a system for tracking your assignments (I'm pretty disorganized by nature, so I've worked hard to figure out task-management systems that work), but I will not track your assignments for you.*
 
 ## Curriculum 
 
-*DRAFT*
-
 The year will explore the following discrete units:
+
 1. College Essay
+1. Forging a Hero
+2. Reflecting on Society
+3. Facing the Future, Confronting the Past
+<!---This is the Shakespeare Unit: Include Midsummer Night's Dream--->
+4. Seeing Things New
+5. Discovering the Self
+6. Finding a Home
 1. Resume Review
-2. Cover Letter Writing and Interview Discourse
+	2. Cover Letter Writing and Interview Practice
 2. Final Project
 
 ## Grading and Assessment
@@ -59,7 +63,7 @@ Each quarter you will complete four formal compositions.
 These assignments are a learning opportunity to grow in knowledge and skill as well as a measure of your abilities in English. 
 In other words, the experience of writing carries a measure of importance along with the actual product. 
 Expect compositions to be roughly 300 - 500 words.
-You will never receive a failing grade for your writing quality --- 
+You will never receive a failing grade for your writing quality -- 
 	you only fail if you do not follow directions. 
 
 ### Papers: 30%
@@ -101,7 +105,7 @@ I will collect them occasionally to assess them for length:
 I design class activities to create meaningful educational experiences and to help you get better working with English.
 Furthermore, following directions and trying your best are important aspects of belonging to a learning community. 
 When you don't work hard 
-  --- even if you are quiet and not "disruptive" --- 
+  -- even if you are quiet and not "disruptive" -- 
   it nevertheless affects both your learning experience *and those around you*. 
 Do your best every class.
 
@@ -120,7 +124,7 @@ Midterms and Finals each count for 10% of your course grade, and they do not cou
 ### Honors Opportunity
 
 You may take this course with honors.
-Signing up for English 3 honors means you will: 
+Signing up for English 4 honors means you will: 
 	take on a leadership role in the classroom; 
 	accept higher expectations for your performance and behavior;
 	receive more feedback on your writing;
@@ -165,5 +169,5 @@ Unexcused absences will not be afforded these opportunities:
 	the work will count as a zero, and the deadlines remain.
 Unexcused absences from my class when you are present in school attendance will result in a write up and call home.
 Excessive tardies and absences will also result in a call home, as they affect participation grades and honors status.
-I am nevertheless a resonable person: please do not hesitate to communicate with me 
+I am nevertheless a reasonable person: please do not hesitate to communicate with me 
 	if there are any special circumstances that affect your ability to attend or participate in this course.
