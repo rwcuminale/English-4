@@ -23,6 +23,8 @@ as well as to give you positive educational experiences as a good send-off from 
 I hope this course shows you the joy that can come from challenging yourself 
 to address complex and sophisticated texts and ideas.
 
+Please follow this link for the [Course Goals](https://github.com/rwcuminale/English-4/01-CourseLogistics/E4-CourseGoals.md).
+
 *NOTE: If you are a former student rising from my English 3 class, the course procedures and structure have changed significantly since last year. Please read this document carefully before signing the syllabus sheet.*
 
 ## What You Need
