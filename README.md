@@ -17,11 +17,11 @@ Twitter: @RichardCuminale
 English 4 is the culmination of your secondary school English study. 
 As such, the course has a focus on enduring skills, important knowledge, and meaningful post-secondary preparations. 
 While literature and rhetoric will form the backbone of your study in this course, 
-you can also expect to engage with reading and writing you will likely face after moving on from high school.
+	you can also expect to engage with reading and writing you will likely face after moving on from high school.
 It is my endeavor both to prepare you for a post-secondary language arts environment 
-as well as to give you positive educational experiences as a good send-off from high school.
+	as well as to give you positive educational experiences as a good send-off from high school.
 I hope this course shows you the joy that can come from challenging yourself 
-to address complex and sophisticated texts and ideas.
+	to address complex and sophisticated texts and ideas.
 
 Please follow this link for the [Course Goals](https://github.com/rwcuminale/English-4/01-CourseLogistics/E4-CourseGoals.md).
 
@@ -39,7 +39,9 @@ The following materials are required every class:
 1. A means for typing and printing composition assignments and papers outside of class
 1. A system for tracking your homework and long-term assignments.
 
-*NOTE: I will NOT accept formal compositions or papers electronically, and I do not have a printer for student use (my in-class printer barely works, even for me). I will also gladly help you establish a system for tracking your assignments (I'm pretty disorganized by nature, so I've worked hard to figure out task-management systems that work), but I will not track your assignments for you.*
+*NOTE: I will NOT accept formal compositions or papers electronically, and I do not have a printer for student use.
+I will also gladly help you establish a system for tracking your assignments,
+	but I will not track your assignments for you.*
 
 ## Curriculum 
 
@@ -53,8 +55,7 @@ The year will explore the following discrete units:
 4. Seeing Things New
 5. Discovering the Self
 6. Finding a Home
-1. Resume Review
-	2. Cover Letter Writing and Interview Practice
+1. Resume Review, Cover Letter Writing and Interview Practice
 2. Final Project
 
 ## Grading and Assessment
@@ -62,7 +63,8 @@ The year will explore the following discrete units:
 ### Compositions: 40%
 
 Each quarter you will complete four formal compositions. 
-These assignments are a learning opportunity to grow in knowledge and skill as well as a measure of your abilities in English. 
+These assignments are a learning opportunity to grow in knowledge and skill
+	as well as a measure of your abilities in English. 
 In other words, the experience of writing carries a measure of importance along with the actual product. 
 Expect compositions to be roughly 300 - 500 words.
 You will never receive a failing grade for your writing quality -- 
@@ -72,13 +74,16 @@ You will never receive a failing grade for your writing quality --
 
 You will produce one extended paper per quarter that will follow a theme across a variety of texts.
 This will be a larger work, a minimum of 1,000 words.
-You will complete the paper in stages, receiving feedback along the way, and you will submit artifacts of this process along with the finished work.
+You will complete the paper in stages, receiving feedback along the way,
+	and you will submit artifacts of this process along with the finished work.
+<!--Note that there are no group projects for English 4-->
 
 ### Preparedness and Participation: 30%
 
 The participation grade describes engagement with the course and the course activities.
 Every class you begin with a 8/10 grade named "Participation" for being present and attentive. 
-You earn a 10/10 by making an active contribution to the academic environment, either to the class as a whole or in your smaller groups.
+You earn a 10/10 by making an active contribution to the academic environment,
+	either to the class as a whole or in your smaller groups.
 Every class also has a "Prepared" grade for being ready to work when class begins.
 This grade is either a 0/10 or a 10/10; 
 	you are either prepared or you are not.
@@ -96,7 +101,8 @@ Please see me to check one out.
 #### Journal Writing
 
 It's self-evident that the more you write, the easier writing becomes and the more you grow. 
-Research strongly suggests that the physical act of writing increases your focus and cultivates more sophisticated thinking. 
+Research strongly suggests that the physical act of writing increases your focus
+	and cultivates more sophisticated thinking. 
 For this reason I often dedicate class time to write freely in a personal journal. 
 You will also use this as a repository for your in-class notes, ideas, and pre-writing strategies. 
 I will collect them occasionally to assess them for length: 
@@ -113,14 +119,16 @@ Do your best every class.
 
 #### Reflective Writing
 
-Often at the end of class you will receive a short writing prompt to reinforce or extend the lines of inquiry of the day's lesson. 
+Often at the end of class you will receive a short writing prompt
+	to reinforce or extend the lines of inquiry of the day's lesson. 
 Honest, informal, short but intelligent writing is valued here. 
 
 ### Midterms and Finals
 
 In lieu of Midterm and Final Exams, you will perform a reflective exercise 
-that makes use of the portfolio-binders you have created throughout the year.
-Keeping a well-supplied and organized portfolio is essential in order to earn high marks on these two assessments.
+	that makes use of the portfolio-binders you have created throughout the year.
+Keeping a well-supplied and organized portfolio is essential in order to earn a strong grade on these two assessments,
+	and it is impossible to pass without a portfolio--binder.
 Midterms and Finals each count for 10% of your course grade, and they do not count on any specific marking period.
 
 ### Honors Opportunity
@@ -131,17 +139,22 @@ Signing up for English 4 honors means you will:
 	accept higher expectations for your performance and behavior;
 	receive more feedback on your writing;
 	earn a half-credit boost to your transcript grade.
-To qualify for Honors you must first sign the honors contract along with your parent or guardian, then strive to do your best in all that is asked of you. Above all it is your character, integrity, and drive that makes you an honors student, not simply your academic abilities.
+To qualify for Honors you must first sign the honors contract along with your parent or guardian, 
+	then strive to do your best in all that is asked of you.
+Above all it is your character, integrity, and drive that makes you an honors student,
+	not simply your academic abilities.
 Consistent failure to meet honors expectations will jeopardize your status.
 
 ## Policies and Procedures
 
 ### Logistics
 
-I will communicate assignments to you in class, write them on the board, and give time at the end of class for entering this information into a planner. 
+I will communicate assignments to you in class, write them on the board,
+	and give time at the end of class for entering this information into a planner. 
 Students are expected to track their assignments. 
 I collect all assignments as hard copies. 
-I post assignments and classroom announcements on Twitter and maintain this repository for copies of anything I hand out to you.
+I post assignments and classroom announcements on Twitter
+	and maintain a github repository for copies of anything I hand out to you.
 
 ### Deadlines
 
@@ -150,14 +163,19 @@ They are due at the beginning of class on the date indicated.
 No paper or project will be received after the deadline.
 Failure to submit a paper or composition earns a "NG" or 0% in the grade book.
 
-*NOTE: Arriving late to class after I have accepted papers means you have missed the deadline. I will not accept these papers. Find reliable access to a printer and print them ahead of time.*
+*NOTE: Arriving late to class after I have accepted papers means you have missed the deadline.
+I will not accept these papers.
+Find reliable access to a printer and print them ahead of time.*
 
 ### Electronics and Phones
 
-Phones, tablets, or ebooks are not permitted in class. 
-I will confiscate phones if they are used during class and return them to you after the period ends. 
+Phones, tablets, earbuds, or ebooks are not permitted in class. 
+I will confiscate these items if they are used during class and return them to you after the period ends. 
 Listening to music is not allowed during composition, 
-	although I will play music while you write sometimes in order to cultivate the habit of being able to write both during silence (as in standardized tests) and during distracting noise (as often occurs when we compose outside the classroom). 
+	although I will play music while you write sometimes
+	in order to cultivate the habit of being able to write both during silence
+	(as in standardized tests) and during distracting noise
+	(as often occurs when we compose outside the classroom). 
 There may be times when you type in class and at those times only are you allowed to use your own laptop.
 
 ### Attendance
